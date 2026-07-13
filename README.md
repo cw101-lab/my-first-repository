@@ -8,3 +8,8 @@ git clone+在github上复制的仓库地址，可以将仓库信息clone到vscod
 crtl+s,表示保存
 ##
 开始学习git基础命令
+git status,表示查看状态
+git add . ,表示暂存修改
+git commit -m"提交说明"，提交到版本库
+git push，推送到github
+git log,查看提交历史
